@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 25px;
+}
+
+.container-div_h1 {
+    color: orange;
+    font-size: 20px;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.container-div {
+    text-align: center;
+    display: inline-block;
+    background: green;
+    margin: 20px 20px 20px 20px;
+    border: 15px;
+    width: 200px;
+    height: 150px;
+    color: black;
+    border: 10px ridge blue;
+}
